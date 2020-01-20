@@ -1,8 +1,11 @@
 # 使い方
 
 ①OSに合わせて以下ファイルを起動
+
 windows:build.bat
+
 mac:build.command
+
 
 ②下記コマンドでcode-server起動
 
